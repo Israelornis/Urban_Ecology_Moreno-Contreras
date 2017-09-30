@@ -1,0 +1,7 @@
+"Attributes","Foraging_technique","Social_foraging","Seasonality"
+"Number of Levels","19","4","4"
+"Evolutionary Transitions Observed","105","73","103"
+"Evolutionary Transitions Randomization Median","142","93","110"
+"Evolutionary Transitions Randomization Min","132","82","100"
+"Evolutionary Transitions Randomization Max","151","104","122"
+"P value","0","0","0.043"

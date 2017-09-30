@@ -1,0 +1,218 @@
+Species,Body_mass_g,Scavenger,Vertebrates,Insects,Worms,Crustaceans,Molluscs,Fish,Seeds,Fruits,Plants,Nectar,Sap,Foraging_technique,Foraging_stratum_terr/aquatic,Foraging_stratum_betw_1_and_2,Foraging_stratum_above_2m,Foraging_stratum_air,Social_Foraging,Diurnal,Crepuscular,Nocturnal,Seasonality,Irruptive,Duration,Mean_frequency,Entropy
+Accipiter_cooperii,529,0,1,0,0,0,0,0,0,0,0,0,0,Air hawker,0,0,1,0,Solitary,1,0,0,WV,0,0.2565859,2.555068,0.7482017
+Accipiter_striatus,174,0,1,1,0,0,0,0,0,0,0,0,0,Air hawker,0,0,1,0,Solitary,1,0,0,WV,0,2.455365,3.813821,0.7297224
+Actitis_macularius,40.4,0,0,1,1,1,1,1,0,0,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,WV,0,0.260126568,3.234920495,0.669725443
+Aechmophorus_occidentalis,1199,0,0,1,0,0,0,1,0,0,0,0,0,Surface diver,1,0,0,0,Solitary,1,0,0,WV,0,0.168779854,4.314237073,0.811158053
+Aeronautes_saxatalis,32.1,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,1,0,0,SR,0,5.21211706,5.104362711,0.840925831
+Agelaius_phoeniceus,39.5,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,1.084805842,3.499809108,0.733731952
+Aimophila_ruficeps,18.1,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Pair,1,0,0,PR,0,1.04443094,5.458472994,0.818246206
+Aix_sponsa,635,0,0,1,0,0,0,0,1,0,0,0,0,Dabbler,1,0,0,0,Aggregation,1,0,0,WV,0,0.296555514,3.114832215,0.796935
+Ammodramus_savannarum,17,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,T,0,1.473375,7.69802,0.7773039
+Amphispiza_bilineata,13.5,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Pair,1,0,0,PR,0,1.062268921,5.974583028,0.755590141
+Anas_acuta,887,0,0,1,0,1,1,0,1,0,1,0,0,Dabbler,1,0,0,0,Aggregation,1,0,1,WV,0,0.4466474,2.348147717,0.727883293
+Mereca_americana,719,0,0,0,0,0,0,0,1,0,1,0,0,Dabbler,1,0,0,0,Aggregation,1,0,1,WV,0,0.2894378,2.222011,0.7533876
+Spatula_clypeata,590,0,0,1,0,1,1,0,1,0,1,0,0,Surface dipper,1,0,0,0,Aggregation,1,0,1,WV,0,0.06364999,2.506802,0.7659258
+Anas_crecca,318,0,0,1,0,1,1,0,1,0,1,0,0,Dabbler,1,0,0,0,Aggregation,0,0,1,WV,0,0.1797839,2.554196,0.7027495
+Spatula_cyanoptera,372,0,0,1,0,1,1,0,1,0,1,0,0,Surface dipper,1,0,0,0,Pair,1,0,1,PR,0,0.1521987,2.920125,0.7549166
+Spatula_discors,340,0,0,1,0,1,1,0,1,0,1,0,0,Surface dipper,1,0,0,0,Aggregation,1,0,1,T,0,0.074131821,2.910775153,0.808936679
+Anas_platyrhynchos,1095,0,0,1,1,1,1,0,1,0,1,0,0,Dabbler,1,0,0,0,Aggregation,1,0,1,PR,0,0.1782104,2.551111,0.7398131
+Mereca_strepera,866,0,0,0,0,0,0,0,1,0,1,0,0,Dabbler,1,0,0,0,Aggregation,1,0,1,WV,0,0.2736662,2.914286,0.767802
+Anthus_rubescens,20.1,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,1,WV,0,1.118419,5.863482,0.7749316
+Archilochus_alexandri,3.6,0,0,1,0,0,0,0,0,0,0,1,0,Hover and gleaner,0,1,0,0,Solitary,1,0,0,SR,0,0.3001282,3.609568,0.7089788
+Ardea_alba,812,0,0,1,0,1,0,1,0,0,0,0,0,Stalker and striker,1,0,0,0,Solitary,1,0,0,PR,0,0.553993661,1.848043625,0.754292101
+Ardea_herodias,2110,0,0,1,0,1,0,1,0,0,0,0,0,Stalker and striker,1,0,0,0,Solitary,1,0,1,PR,0,0.257167025,2.276685623,0.755774569
+Artemisiospiza_nevadensis,17.7,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.5260491,5.859656,0.6143675
+Asio_flammeus,378,0,1,1,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,0,1,0,T,0,0.24575809,2.775511414,0.767662994
+Asio_otus,337,0,1,0,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Pair,0,0,1,WV,0,0.5380429,0.5940828,0.4577288
+Athene_cunicularia,156,0,1,1,0,0,0,0,0,0,0,0,0,Air hawker,1,0,0,0,Solitary,0,1,0,PR,0,0.18399363,5.312317976,0.809615668
+Auriparus_flaviceps,6.8,0,0,1,0,0,0,0,0,1,0,0,0,Foliage gleaner,0,1,0,0,Pair,1,0,0,PR,0,0.746015136,3.82162608,0.76883128
+Aythya_affinis,790,0,0,1,0,1,1,0,1,0,1,0,0,Surface diver,1,0,0,0,Aggregation,1,0,1,WV,0,0.1150393,1.792799,0.7483481
+Aythya_americana,1035,0,0,1,0,1,1,0,1,0,1,0,0,Surface diver,1,0,0,0,Aggregation,1,0,1,WV,0,0.2595995,1.680332,0.7159611
+Aythya_collaris,680,0,0,1,0,1,1,0,1,0,1,0,0,Surface diver,1,0,0,0,Aggregation,1,0,0,WV,0,0.14829011,1.548807939,0.700302485
+Aythya_valisineria,1154,0,0,1,0,0,1,0,1,0,1,0,0,Surface diver,1,0,0,0,Aggregation,1,0,0,WV,0,0.2273445,2.138555,0.7592362
+Bartramia_longicauda,164,0,0,1,1,0,0,0,0,0,1,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,T,0,2.79204,2.887025,0.8024934
+Bombycilla_cedrorum,32.6,0,0,1,0,0,0,0,0,1,0,0,0,Foliage gleaner,0,0,1,0,Bonded,1,0,0,WV,1,0.333571,5.66645,0.6783901
+Branta_canadensis,2854,0,0,0,0,0,0,0,1,1,1,0,0,Surface dipper,1,0,0,0,Aggregation,1,0,0,WV,0,0.264990273,1.608687542,0.677367155
+Branta_hutchinsii,1920,0,0,0,0,0,0,0,1,1,1,0,0,Surface dipper,1,0,0,0,Solitary,1,0,0,WV,0,0.1650312,2.296279,0.7233327
+Bubo_virginianus,1142,0,1,1,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,0,0,1,PR,0,0.5913641,0.8034779,0.5825203
+Bubulcus_ibis,360,0,0,1,0,1,1,0,0,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,0.1298264,4.045568,0.8278629
+Bucephala_albeola,334,0,0,1,0,1,1,1,1,0,1,0,0,Surface diver,1,0,0,0,Aggregation,1,0,1,WV,0,0.2368528,3.135098,0.7977316
+Buteo_albonotatus,886,0,1,0,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,1,0,0,T,0,1.997403,3.5803,0.7578496
+Buteo_jamaicensis,1224,0,1,0,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,1,0,0,PR,0,0.6683216,3.572904,0.78308
+Buteo_regalis,1776,0,1,0,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,1,0,0,WV,0,1.074865,2.887109,0.7281892
+Buteo_swainsoni,1109,0,1,1,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,1,0,0,SR,0,0.2583047,2.456018,0.6349235
+Buteogallus_anthracinus,1199,0,1,0,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,1,0,0,T,0,0.2551824,3.521646,0.7438509
+Butorides_virescens,212,0,0,1,0,0,0,1,0,0,1,0,0,Stalker and striker,1,0,0,0,Solitary,1,1,1,PR,0,0.1082469,2.436357,0.7299351
+Calamospiza_melanocorys,37.6,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.1404693,2.860288,0.7274188
+Calidris_mauri,29.1,0,0,1,1,0,1,0,0,0,0,0,0,Prober,1,0,0,0,Aggregation,1,0,0,T,0,1.43725714,3.448536049,0.795688092
+Calidris_melanotos,65,0,0,1,1,0,1,0,0,0,0,1,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,T,0,0.1175578,3.4239,0.7185841
+Calidris_minutilla,23.8,0,0,1,1,0,0,0,0,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.1618282,2.525496,0.7520517
+Callipepla_gambelii,162,0,0,1,0,0,0,0,1,0,1,0,0,Ground gleaner,1,0,0,0,Bonded,1,1,0,PR,0,0.108731097,2.327559984,0.782148627
+Callipepla_squamata,177,0,0,1,0,0,0,0,1,0,1,0,0,Ground gleaner,1,0,0,0,Bonded,1,1,0,PR,0,0.4298554,2.255626,0.6517773
+Campylorhynchus_brunneicapillus,38.9,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,0,1,0,0,Pair,1,0,0,PR,0,3.455662,2.289504,0.7430098
+Cardellina_pusilla,6.7,0,0,1,0,0,0,0,0,1,0,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.22746,5.353198,0.7985321
+Cardinalis_cardinalis,41.8,0,0,0,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Bonded,1,1,0,PR,0,3.698404,3.631002,0.8117178
+Cardinalis_sinuatus,34.6,0,0,0,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,PR,0,2.18152473,2.569548192,0.714804994
+Cathartes_aura,1430,1,0,0,0,0,0,0,0,0,0,0,0,Ground scavenger,1,0,0,0,Solitary,1,0,0,SR,0,0.7790603,3.750517,0.8305473
+Catharus_guttatus,30.1,0,0,1,0,0,0,0,0,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,WV,0,0.6224898,3.187053,0.7475873
+Catharus_ustulatus,30.3,0,0,1,0,0,0,0,0,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,T,0,0.3737702,3.514259,0.7523268
+Catherpes_mexicanus,12.7,0,0,1,0,0,0,0,0,0,0,0,0,Ground gleaner,1,0,0,0,Pair,1,0,0,PR,0,1.7566143,3.780065748,0.801681286
+Certhia_americana,8.1,0,0,1,0,0,0,0,1,0,0,0,0,Bark gleaner,0,0,1,0,Solitary,1,0,0,WV,0,0.5372326,6.939763,0.6751655
+Charadrius_vociferus,101,0,0,1,1,1,1,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Pair,1,0,1,PR,0,0.3057951,4.075575,0.5863457
+Anser_caerulescens,2517,0,0,0,0,0,0,0,1,0,1,0,0,Surface dipper,1,0,0,0,Aggregation,1,0,0,WV,0,0.1918583,1.916353,0.6984184
+Anser_rossii,1640,0,0,0,0,0,0,0,1,0,1,0,0,Surface dipper,1,0,0,0,Aggregation,1,0,0,WV,0,0.1636276,1.544836,0.696341
+Chondestes_grammacus,29,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Bonded,1,0,0,T,0,2.741308,5.165884,0.7871075
+Chordeiles_acutipennis,49.9,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,0,1,1,SR,0,1.351064,1.252995,0.6945864
+Chordeiles_minor,79.3,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,0,1,1,T,0,0.2491727,4.754102,0.7624835
+Circus_hudsonius,515,1,1,0,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,1,0,0,WV,0,0.3938602,4.595985,0.7453466
+Cistothorus_palustris,9.4,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,1,0,0,Bonded,1,0,0,WV,0,0.3350353,6.068374,0.8286149
+Colaptes_auratus,142,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,WV,0,0.2319922,3.620802657,0.650197737
+Columba_livia,340,0,0,0,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,0.5020469,1.637428,0.6315956
+Columbina_inca,47.5,0,0,0,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,0.6091073,2.91906,0.7747752
+Contopus_cooperi,32.1,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,0,1,0,Solitary,1,0,0,T,0,0.7494884,2.9902,0.7090337
+Contopus_sordidulus,13.1,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,T,0,0.5716236,4.150957,0.651758
+Corvus_brachyrhynchos,376,1,1,1,0,0,0,0,1,1,0,0,0,Ground forager,1,0,0,0,Aggregation,1,0,0,WV,0,1.931581,2.796123,0.779304
+Corvus_cryptoleucus,512,1,1,1,0,0,0,0,1,1,0,0,0,Ground forager,1,0,0,0,Aggregation,1,0,0,PR,0,0.3823925,1.761946,0.6948451
+Cyanocitta_stelleri,128,0,0,1,0,0,0,0,1,1,0,0,0,Ground forager,1,0,0,0,Bonded,1,0,0,WV,1,1.029699,3.437017,0.7973835
+Egretta_thula,371,0,0,1,0,1,0,1,0,0,0,0,0,Stalker and striker,1,0,0,0,Aggregation,1,0,0,PR,0,0.5866352,1.938367,0.7539164
+Elanus_leucurus,346,0,1,0,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,1,0,0,WV,0,4.429732,3.758793,0.7331745
+Empidonax_hammondii,10.3,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,T,0,0.06287323,3.980508,0.6883652
+Empidonax_minimus,10,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,T,0,0.04104643,4.256579,0.7691585
+Empidonax_oberholseri,10.4,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,T,0,0.1932556,4.470189,0.6952621
+Empidonax_occidentalis,11.6,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,T,0,0.2732665,3.681205,0.662472
+Empidonax_traillii,13.7,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,T,0,0.319739,4.511486,0.7755493
+Empidonax_wrightii,12.3,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,T,0,0.2309599,4.137736,0.7235604
+Euphagus_cyanocephalus,58.1,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.048197123,3.578757839,0.838000083
+Falco_columbarius,218,0,1,1,0,0,0,0,0,0,0,0,0,Air hawker,0,1,0,0,Solitary,1,0,0,WV,0,0.70649625,4.022430468,0.743554647
+Falco_mexicanus,908,0,1,0,0,0,0,0,0,0,0,0,0,Air hawker,0,1,0,0,Solitary,1,0,0,WV,0,0.477727072,3.786975603,0.748330639
+Falco_peregrinus,959,0,1,0,0,0,0,0,0,0,0,0,0,Air hawker,0,1,0,0,Solitary,1,0,0,T,0,0.376981515,3.146437716,0.784473375
+Falco_sparverius,120,0,1,1,0,0,0,0,0,0,0,0,0,Ground hawker,1,0,0,0,Bonded,1,0,0,PR,0,0.172449812,4.257967219,0.710137345
+Fulica_americana,560,0,0,1,0,0,0,0,1,0,1,0,0,Surface dipper,1,0,0,0,Solitary,1,0,0,PR,0,0.0521027,2.922853072,0.852677749
+Gallinago_delicata,116,0,0,1,1,0,0,0,1,0,0,0,0,Prober,1,0,0,0,Bonded,1,0,0,WV,0,1.600114119,2.670117678,0.730249339
+Gallinula_galeata,349,0,0,1,0,0,0,0,1,0,1,0,0,Surface dipper,1,0,0,0,Solitary,1,0,0,PR,0,0.45301194,2.07720429,0.679036525
+Geococcyx_californianus,376,0,1,1,0,0,0,0,0,0,0,0,0,Ground chaser,1,0,0,0,Solitary,1,0,0,PR,0,3.21398374,1.465822684,0.66734713
+Geothlypis_tolmiei,10.4,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,1,0,0,Solitary,1,0,0,T,0,0.3541207,5.464518,0.6834125
+Geothlypis_trichas,9.2,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,1,0,0,Bonded,1,0,0,SR,0,0.4583035,4.075293,0.7485654
+Haemorhous_mexicanus,21.4,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,3.04177127,4.106636933,0.78396156
+Himantopus_mexicanus,170,0,0,1,0,0,0,1,0,0,1,0,0,Prober,1,0,0,0,Bonded,1,0,1,PR,0,0.04067893,3.711184054,0.723892081
+Hirundo_rustica,15.8,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,1,0,0,SR,0,0.8849548,3.631955,0.7463641
+Icteria_virens,25.4,0,0,1,0,0,0,0,0,1,0,0,0,Foliage gleaner,0,1,0,0,Solitary,1,0,0,SR,0,0.2585263,4.325645,0.7917574
+Icterus_bullockii,37.9,0,0,1,0,0,0,0,0,1,0,1,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,SR,0,0.5875808,2.84998,0.6713075
+Icterus_parisorum,37.4,0,0,1,0,0,0,0,0,1,0,1,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,SR,0,0.6954551,3.716268,0.818927
+Ictinia_mississippiensis,311,0,0,1,0,0,0,0,0,0,0,0,0,Air hawker,0,0,0,1,Solitary,1,0,0,SR,0,0.92228986,5.355656416,0.825586416
+Junco_hyemalis,17.9,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.5411937,4.427696,0.7936584
+Lanius_ludovicianus,47.7,0,1,1,0,0,0,0,0,0,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,PR,0,0.4196444,3.853427,0.7533679
+Larus_delawarensis,471,0,0,1,1,1,1,1,0,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.11521278,1.313922165,0.644038991
+Limnodromus_scolopaceus,109,0,0,1,0,0,1,0,1,0,1,0,0,Prober,1,0,0,0,Bonded,1,0,1,WV,0,0.1001268,3.30399,0.7505776
+Lophodytes_cucullatus,680,0,0,1,0,1,1,1,0,0,0,0,0,Surface diver,1,0,0,0,Bonded,1,0,0,WV,0,0.184882716,2.210242179,0.745332721
+Loxia_curvirostra,36.4,0,0,0,0,0,0,0,1,0,0,0,0,Foliage gleaner,0,0,1,0,Bonded,1,0,0,WV,1,0.3116273,3.289766,0.7544243
+Megaceryle_alcyon,148,0,0,0,0,0,0,1,0,0,0,0,0,Water plunger,1,0,0,0,Solitary,1,0,0,WV,0,0.62181272,4.032038751,0.776109435
+Melospiza_georgiana,16.1,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.06836686,5.41901,0.7429755
+Melospiza_lincolnii,16.6,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,WV,0,0.2434639,5.460871,0.7203829
+Melospiza_melodia,19.5,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,WV,0,0.7215352,4.669354,0.786141
+Melozone_fusca,44.4,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,PR,0,1.37794039,3.927867009,0.76864594
+Mergus_merganser,1232,0,0,1,0,1,1,1,0,0,0,0,0,Surface diver,1,0,0,0,Solitary,1,0,0,WV,0,0.52177982,2.158903639,0.754565715
+Mimus_polyglottos,48.5,0,0,1,0,0,0,0,0,1,0,0,0,Ground gleaner,1,0,0,0,Pair,1,0,0,PR,0,0.8987588,3.507199,0.7111812
+Mniotilta_varia,10.9,0,0,1,0,0,0,0,0,0,0,0,0,Bark gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.5221601,6.405691,0.7935499
+Molothrus_aeneus,56.9,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,SR,0,1.295312,6.323862,0.8128336
+Molothrus_ater,38.1,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,SR,0,0.4191386,5.74312,0.6881675
+Myiarchus_cinerascens,28.2,0,0,1,0,0,0,0,0,1,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,SR,0,0.4309268,3.607573,0.6790033
+Myioborus_pictus,9.9,0,0,1,0,0,0,0,0,0,0,0,1,Bark gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.8249335,3.836181,0.7186388
+Numenius_americanus,642,0,0,1,1,1,1,0,0,0,0,0,0,Prober,1,0,0,0,Aggregation,1,0,1,WV,0,2.475783618,1.742876737,0.735964185
+Nycticorax_nycticorax,810,0,0,1,0,1,0,1,0,0,0,0,0,Stalker and striker,1,0,0,0,Solitary,1,0,1,PR,0,0.124858738,2.199039495,0.732555755
+Oreoscoptes_montanus,44.2,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,WV,0,0.1151666,2.634842,0.7224135
+Oreothlypis_celata,9,0,0,1,0,0,0,0,0,1,0,1,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,WV,0,0.3915841,6.399935,0.7431876
+Oreothlypis_ruficapilla,7.9,0,0,1,0,0,0,0,0,1,0,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.639859,6.477233,0.7508331
+Oreothlypis_virginiae,8.2,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,SR,0,0.1582609,6.825283,0.7584993
+Oxyura_jamaicensis,588,0,0,1,1,1,1,0,1,0,0,0,0,Surface diver,1,0,0,0,Aggregation,1,0,1,PR,0,0.12725984,1.1220242,0.624728891
+Pandion_haliaetus,1568,0,0,0,0,0,0,1,0,0,0,0,0,Water foot-plunger,1,0,0,0,Solitary,1,0,0,T,0,6.941055955,3.951154512,0.827739505
+Parabuteo_unicinctus,998,0,1,0,0,0,0,0,0,0,0,0,0,Low patrol,1,0,0,0,Solitary,1,0,0,T,0,4.1180349,3.560745028,0.752068552
+Parkesia_noveboracensis,16.3,0,0,1,0,1,1,0,0,0,0,0,0,Ground hawker,1,0,0,0,Solitary,1,0,0,T,0,0.08597894,5.237561,0.6981157
+Passer_domesticus,27.4,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,0.3546282,4.893971,0.7592119
+Passerculus_sandwichensis,19.5,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.0271424,6.352562,0.751541
+Passerina_caerulea,27,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,SR,0,0.092419603,5.23549964,0.745190798
+Passerina_ciris,15,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Bonded,1,0,0,T,0,0.03489352,5.941998,0.7489475
+Pelecanus_erythrorhynchos,4970,0,0,0,0,0,0,1,0,0,0,0,0,Surface dipper,1,0,0,0,Bonded,1,0,0,WV,0,0.0542739,1.817936,0.7420845
+Petrochelidon_fulva,24.2,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,1,0,0,SR,0,4.166755,3.3265,0.815539
+Petrochelidon_pyrrhonota,21.6,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,1,0,0,SR,0,0.1858559,4.020776,0.76175
+Peucaea_cassinii,18.9,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Bonded,1,0,0,SR,0,0.1311317,8.746062,0.6483823
+Phainopepla_nitens,22.1,0,0,1,0,0,0,0,0,1,0,0,0,Foliage gleaner,0,0,1,0,Bonded,1,0,0,PR,0,0.6640316,2.855001,0.6859996
+Phalacrocorax_auritus,1831,0,0,0,0,0,0,1,0,0,0,0,0,Surface diver,1,0,0,0,Aggregation,1,0,0,PR,0,0.3224941,1.463589,0.6365216
+Phalacrocorax_brasilianus,1256,0,0,0,0,0,0,1,0,0,0,0,0,Surface diver,1,0,0,0,Aggregation,1,0,0,PR,0,0.1384828,1.740357,0.7400362
+Phalaenoptilus_nuttallii,49.5,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,1,0,0,Aggregation,0,0,1,SR,0,15.09956821,2.052162165,0.736616964
+Phalaropus_tricolor,68.1,0,0,1,0,0,0,0,1,0,0,0,0,Surface dipper,1,0,0,0,Bonded,1,0,0,T,0,0.1646743,2.64936,0.7735504
+Pheucticus_melanocephalus,48.2,0,0,1,0,0,0,0,1,0,0,0,0,Foliage gleaner,0,0,1,0,Pair,1,0,0,T,0,2.857498,3.104638,0.7851059
+Picoides_scalaris,30.3,0,0,1,0,0,0,0,0,1,0,0,0,Bark gleaner,0,1,0,0,Solitary,1,0,0,PR,0,0.8176805,5.35537,0.8057016
+Pipilo_chlorurus,29.4,0,0,1,0,0,0,0,0,1,1,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.9136986,3.981745,0.7798331
+Pipilo_maculatus,39,0,0,1,0,0,0,0,0,1,1,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.5755932,3.474519,0.7686718
+Piranga_ludoviciana,28.1,0,0,1,0,0,0,0,0,0,1,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.2821668,3.654791,0.7345778
+Piranga_rubra,28.2,0,0,1,0,0,0,0,0,0,1,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,SR,0,0.2924538,2.870204,0.740505
+Plegadis_chihi,546,0,0,1,0,1,1,0,1,0,0,0,0,Prober,1,0,0,0,Aggregation,1,0,0,T,0,0.2233576,1.903693,0.7072722
+Podiceps_nigricollis,374,0,0,1,0,1,1,1,0,0,0,0,0,Surface diver,1,0,0,0,Aggregation,1,0,0,WV,0,0.6168075,3.296091,0.7912546
+Podilymbus_podiceps,358,0,0,1,0,1,1,1,0,0,0,0,0,Surface diver,1,0,0,0,Aggregation,1,0,0,PR,0,4.78248851,2.959542423,0.844228228
+Polioptila_caerulea,5.8,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,WV,0,0.2445734,6.15423,0.7919853
+Polioptila_melanura,5.2,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,1,0,0,Pair,1,0,0,PR,0,1.2240952,3.877649463,0.771125223
+Pooecetes_gramineus,24.9,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,3.142886,4.213038656,0.788577835
+Porzana_carolina,74.8,0,0,1,0,1,1,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,WV,0,1.273299613,2.803032941,0.729177761
+Pyrocephalus_rubinus,14.4,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,WV,0,0.1211024,4.851717,0.6993897
+Quiscalus_mexicanus,116,0,0,1,0,0,0,0,1,1,0,0,0,Ground forager,1,0,0,0,Aggregation,1,0,0,PR,0,0.2258759,3.786723,0.7899306
+Recurvirostra_americana,302,0,0,1,1,1,1,0,0,0,0,0,0,Prober,1,0,0,0,Aggregation,1,0,0,T,0,0.09019225,2.221118,0.7718956
+Regulus_calendula,5.9,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,0,1,0,Aggregation,1,0,0,WV,0,0.08270357,5.389406,0.8481459
+Riparia_riparia,13.9,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,1,0,0,T,0,0.2923631,4.321709,0.7978278
+Salpinctes_obsoletus,16.5,0,0,1,0,0,0,0,0,0,0,0,0,Ground gleaner,1,0,0,0,Pair,1,0,0,PR,0,1.265583,5.517781,0.7723194
+Sayornis_nigricans,17.8,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,PR,0,0.4359145,4.423246,0.7383718
+Sayornis_phoebe,19.7,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,WV,0,0.1659332,4.652699,0.7247862
+Sayornis_saya,20.9,0,0,1,0,0,0,0,0,0,0,0,0,Air sallier,0,1,0,0,Solitary,1,0,0,PR,0,0.716098,3.449685,0.697148
+Selasphorus_platycercus,3.6,0,0,1,0,0,0,0,0,0,0,1,0,Hover and gleaner,0,1,0,0,Solitary,1,0,0,T,0,0.4241973,5.366023,0.6938513
+Selasphorus_rufus,3.5,0,0,1,0,0,0,0,0,0,0,1,0,Hover and gleaner,0,1,0,0,Solitary,1,0,0,T,0,0.119675645,7.648206047,0.818636795
+Setophaga_citrina,10.3,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,1,0,0,Solitary,1,0,0,T,0,0.07058931,5.882362,0.727693
+Setophaga_coronata,11.9,0,0,1,0,0,0,0,0,1,0,0,0,Foliage gleaner,0,0,1,0,Aggregation,1,0,0,WV,0,0.07501272,4.926385,0.8021253
+Setophaga_graciae,8.1,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.070657747,6.300746,0.7605633
+Setophaga_nigrescens,8.7,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,0,1,0,Aggregation,1,0,0,T,0,0.08293756,5.951734,0.8119988
+Setophaga_occidentalis,10.4,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.216626,7.02581,0.7826224
+Setophaga_petechia,10,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,0,1,0,Aggregation,1,0,0,T,0,0.08872144,3.880939,0.7425509
+Setophaga_pinus,11.9,0,0,1,0,0,0,0,1,1,0,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,WV,0,0.02340692,3.986596,0.6086242
+Setophaga_ruticilla,8.1,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.1181545,6.3992,0.7598087
+Setophaga_townsendi,8.6,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,0,1,0,Aggregation,1,0,0,T,0,0.2212586,6.481581,0.7610123
+Sialia_currucoides,29.6,0,0,1,0,0,0,0,1,1,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,WV,1,0.07643103,2.270819,0.610196
+Sialia_mexicana,27.1,0,0,1,0,0,0,0,1,1,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,WV,1,0.06932109,2.875859,0.6735162
+Sialia_sialis,27.5,0,0,1,0,0,0,0,1,1,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,WV,1,0.163715,4.296891,0.8141324
+Sitta_canadensis,9.8,0,0,1,0,0,0,0,1,0,0,0,0,Bark gleaner,0,0,1,0,Aggregation,1,0,0,WV,1,0.2178133,2.968952,0.6109063
+Sitta_carolinensis,21,0,0,1,0,0,0,0,1,0,0,0,0,Bark gleaner,0,0,1,0,Aggregation,1,0,0,WV,0,0.1521623,2.588245,0.6609924
+Sphyrapicus_nuchalis,45.9,0,0,1,0,0,0,0,0,0,0,0,1,Bark gleaner,0,0,1,0,Solitary,1,0,0,WV,0,0.406668,4.102160429,0.813556879
+Sphyrapicus_thyroideus,47.6,0,0,1,0,0,0,0,0,0,0,0,1,Bark gleaner,0,0,1,0,Solitary,1,0,0,WV,0,1.335539514,2.312841467,0.753172093
+Sphyrapicus_varius,50.3,0,0,1,0,0,0,0,0,0,0,0,1,Bark gleaner,0,0,1,0,Solitary,1,0,0,WV,0,6.595051,3.213822,0.8247049
+Spinus_pinus,12.7,0,0,1,0,0,0,0,1,1,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,WV,1,0.42940194,5.37077541,0.75552926
+Spinus_psaltria,9.5,0,0,1,0,0,0,0,1,1,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,PR,0,0.677675627,5.475431575,0.745980683
+Spinus_tristis,12.5,0,0,1,0,0,0,0,1,1,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,WV,0,0.78434069,5.01077137,0.79019721
+Spizella_atrogularis,11.3,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.09053761,6.00222725,0.81336286
+Spizella_breweri,10.9,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.14134482,9.15829942,0.69313334
+Spizella_pallida,11.2,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,T,0,0.0679696,8.20858587,0.69737015
+Spizella_passerina,12.2,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.05379505,9.02165155,0.76565217
+Stelgidopteryx_serripennis,15.9,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,1,0,0,SR,0,0.137410799,4.425209608,0.790754142
+Streptopelia_decaocto,146,0,0,0,0,0,0,0,1,1,1,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,PR,0,0.66863545,0.7831261,0.504827
+Sturnella_magna,76,0,0,1,0,0,0,0,0,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.11738424,4.19953172,0.66795602
+Sturnella_neglecta,89.4,0,0,1,0,0,0,0,0,1,0,0,0,Ground gleaner,1,0,0,0,Solitary,1,0,0,PR,0,1.86732813,2.595942938,0.70011791
+Sturnus_vulgaris,84.4,0,0,1,0,0,0,0,1,1,0,0,0,Ground forager,1,0,0,0,Bonded,1,0,0,PR,0,0.381882029,5.567159452,0.746681641
+Tachycineta_bicolor,21.2,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,1,0,0,T,0,0.14147925,4.38107691,0.76376928
+Tachycineta_thalassina,13.9,0,0,1,0,0,0,0,0,0,0,0,0,Air screener,0,0,0,1,Aggregation,1,0,0,SR,0,0.06425143,4.5525513,0.76961059
+Thryomanes_bewickii,9.9,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,WV,0,0.76759969,3.59223615,0.73617661
+Toxostoma_crissale,62.7,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,2.501455765,3.336480087,0.812714308
+Toxostoma_curvirostre,85.2,0,0,1,0,0,0,0,0,1,1,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,3.15903647,2.736661577,0.780742459
+Tringa_flavipes,77.5,0,0,1,1,1,1,1,0,0,0,0,0,Prober,1,0,0,0,Aggregation,1,0,1,T,0,4.09203591,3.718216446,0.831370743
+Tringa_melanoleuca,171,0,0,1,1,1,1,1,0,0,0,0,0,Prober,1,0,0,0,Aggregation,1,0,1,WV,0,0.459312717,3.601968437,0.786655172
+Tringa_solitaria,48.4,0,0,1,1,1,1,0,0,0,0,0,0,Prober,1,0,0,0,Solitary,1,0,1,T,0,1.69146539,3.286016545,0.82403305
+Troglodytes_aedon,11.1,0,0,1,0,0,0,0,0,0,0,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,WV,0,0.286628651,4.730053137,0.765833227
+Turdus_migratorius,78.5,0,0,1,0,0,0,0,0,1,0,0,0,Ground gleaner,1,0,0,0,Bonded,1,0,0,PR,0,4.794713905,2.887551277,0.73743369
+Tyrannus_melancholicus,37.4,0,0,1,0,0,0,0,0,1,0,0,0,Air sallier,0,0,1,0,Solitary,1,0,0,T,0,0.877404669,4.61024699,0.72803843
+Tyrannus_verticalis,39.6,0,0,1,0,0,0,0,0,1,0,0,0,Air sallier,0,0,1,0,Solitary,1,0,0,SR,0,0.07780643,3.656831266,0.74310637
+Tyto_alba,370,0,0,1,0,0,0,0,0,0,0,0,0,Low patrol,1,0,0,0,Solitary,0,0,1,PR,0,0.040452823,5.138075828,0.816129882
+Vireo_bellii,8.5,0,0,1,0,0,0,0,0,0,1,0,0,Foliage gleaner,0,1,0,0,Aggregation,1,0,0,SR,0,1.145743025,4.448284934,0.795310388
+Vireo_cassinii,14.7,0,0,1,0,0,0,0,0,0,1,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.652544767,4.560602866,0.792316126
+Vireo_gilvus,11.9,0,0,1,0,0,0,0,0,0,1,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,T,0,0.882555122,4.549379402,0.76374806
+Vireo_plumbeus,16.4,0,0,1,0,0,0,0,0,0,1,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,T,0,2.774767671,4.523605751,0.822531233
+Vireo_solitarius,15.3,0,0,1,0,0,0,0,0,0,1,0,0,Foliage gleaner,0,0,1,0,Solitary,1,0,0,WV,0,0.364274954,3.809639207,0.78630063
+Xanthocephalus_xanthocephalus,49.3,0,0,1,0,0,0,0,1,0,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.17312685,2.492710694,0.737427859
+Zenaida_asiatica,153,0,0,0,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,0.953513667,1.04373874,0.577781093
+Zenaida_macroura,115,0,0,0,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,PR,0,0.857701323,0.821478116,0.45085763
+Zonotrichia_leucophrys,28.4,0,0,1,0,0,0,0,1,1,0,0,0,Ground gleaner,1,0,0,0,Aggregation,1,0,0,WV,0,0.047836096,5.150253631,0.667561571
